@@ -1,20 +1,20 @@
 # Tokenomics
 
-## Bitrader Business Module
+## FlashEX Business Module
 
 {% hint style="info" %}
-Bitrader's platform's revenue comes from **brokerage fee earnings** generated through the exchanges.&#x20;
+FlashEX's platform's revenue comes from **brokerage fee earnings** generated through the exchanges.&#x20;
 {% endhint %}
 
 ## Buybacks
 
-* **90% of platform earnings** (with 10% reserved for platform technical and operational costs) will be used to **buy back Bitrader Tokens**.
+* **90% of platform earnings** (with 10% reserved for platform technical and operational costs) will be used to **buy back FlashEX Tokens**.
 * The **100% of tokens bought back** are allocated to the community, referred to as the **Community Total Earnings**.
 * These earnings are processed by the system, which follows a set allocation rule: a portion is burned, and the remainder is distributed to nodes.
 
 ## Deflatory Nature
 
-* **25% of the Community Total Earnings** is used to **buy back and burn Bitrader Tokens**, reducing the overall supply and creating a deflationary effect.
+* **25% of the Community Total Earnings** is used to **buy back and burn FlashEX Tokens**, reducing the overall supply and creating a deflationary effect.
 * **Burn Time**: The tokens repurchased the previous month are burned on the **5th of each month**.
 
 ## Distribution

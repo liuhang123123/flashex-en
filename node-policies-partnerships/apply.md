@@ -17,7 +17,7 @@
 
 ## Node Partner Application Criteria
 
-Bitrader is a platform co-created with partners, and it welcomes industry elites and platforms to join the Bitrader community. Below are the criteria for applying to become a Node Partner:
+FlashEX is a platform co-created with partners, and it welcomes industry elites and platforms to join the FlashEX community. Below are the criteria for applying to become a Node Partner:
 
 **Eligibility Criteria:**
 
@@ -31,9 +31,9 @@ Bitrader is a platform co-created with partners, and it welcomes industry elites
 ## **Node Partner Application Process:**
 
 * **Step 1**: Community partners prepare their application materials.
-* **Step 2**: Submit the application materials via the Bitrader App.
-* **Step 3**: Engage with Bitrader to confirm the cooperation plan. Once confirmed, the partnership will be officially announced by Bitrader.
-* **Step 4**: Bitrader Tokens will be allocated to the partner’s account.
+* **Step 2**: Submit the application materials via the FlashEX App.
+* **Step 3**: Engage with FlashEX to confirm the cooperation plan. Once confirmed, the partnership will be officially announced by FlashEX.
+* **Step 4**: FlashEX Tokens will be allocated to the partner’s account.
 
 **Application Materials:**
 

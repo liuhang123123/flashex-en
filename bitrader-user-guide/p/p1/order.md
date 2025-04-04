@@ -1,4 +1,4 @@
-# Order Modes in Bitrader
+# Order Modes in FlashEX
 
 <figure><img src="../../../.gitbook/assets/Group 47302.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -13,8 +13,8 @@ In the Limit Order mode, the program will place an order based on the current la
 
 In the Market Order mode, the program continuously places orders at the best available price, ensuring that the order is filled as quickly as possible, often at 100% completion.
 
-* **For Long Positions**: The program will continuously place buy orders at the best available selling price. In a rising market, if the initial order is not fully filled, Bitrader will cancel any unfilled portions and place a new buy order at the higher current best price until the order is fully filled.
-* **For Short Positions**: The program will continuously place sell orders at the best available buying price. In a falling market, if the initial order is not fully filled, Bitrader will cancel any unfilled portions and place a new sell order at the lower current best price until the order is fully filled.
+* **For Long Positions**: The program will continuously place buy orders at the best available selling price. In a rising market, if the initial order is not fully filled, FlashEX will cancel any unfilled portions and place a new buy order at the higher current best price until the order is fully filled.
+* **For Short Positions**: The program will continuously place sell orders at the best available buying price. In a falling market, if the initial order is not fully filled, FlashEX will cancel any unfilled portions and place a new sell order at the lower current best price until the order is fully filled.
 * **Cost Consideration**: Orders in this mode generally have higher execution costs compared to Limit Orders due to price fluctuations.
 
 ## Planned Order

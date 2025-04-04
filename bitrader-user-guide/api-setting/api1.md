@@ -15,4 +15,4 @@ To obtain API parameters from the OKX exchange, follow these steps:
 4. **Copy API Information**:
    * Carefully copy the API Key, Secret Key, and any other relevant information provided.
 
-These details are essential for configuring your Bitrader App to interact with the OKX exchange.
+These details are essential for configuring your FlashEX App to interact with the OKX exchange.

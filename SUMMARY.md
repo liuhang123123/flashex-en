@@ -1,40 +1,40 @@
 # Table of contents
 
-## Bitrader Introduction
+## FlashEX Introduction
 
 * [Product Introduction](README.md)
-* [Bitrader Pro](bitrader-introduction/bitrader-pro.md)
-* [How Does Bitrader Work](bitrader-introduction/mechanism.md)
-* [The Value of Bitrader](bitrader-introduction/the-value-of-bitrader.md)
+* [FlashEX Pro](bitrader-introduction/bitrader-pro.md)
+* [How Does FlashEX Work](bitrader-introduction/mechanism.md)
+* [The Value of FlashEX](bitrader-introduction/the-value-of-bitrader.md)
 * [Exchange Integration](bitrader-introduction/accessed-exchanges.md)
 * [FAQ](bitrader-introduction/fqa/README.md)
-  * [Bitrader User Rewards](bitrader-introduction/fqa/w1.md)
-  * [Is Bitrader a Exchange?](bitrader-introduction/fqa/w2.md)
-  * [Do I need to top up or deposit to my Bitrader app?](bitrader-introduction/fqa/w3.md)
-  * [What are the Trading Pairs on Bitrader?](bitrader-introduction/fqa/w4.md)
+  * [FlashEX User Rewards](bitrader-introduction/fqa/w1.md)
+  * [Is FlashEX a Exchange?](bitrader-introduction/fqa/w2.md)
+  * [Do I need to top up or deposit to my FlashEX app?](bitrader-introduction/fqa/w3.md)
+  * [What are the Trading Pairs on FlashEX?](bitrader-introduction/fqa/w4.md)
 
-## Bitrader User Guide
+## FlashEX User Guide
 
 * [Download and Registration](bitrader-user-guide/reg.md)
 * [API Configuration](bitrader-user-guide/api-setting/README.md)
   * [API Parameters with Exchanges](bitrader-user-guide/api-setting/api1.md)
-  * [Bitrader API Settings](bitrader-user-guide/api-setting/api2.md)
+  * [FlashEX API Settings](bitrader-user-guide/api-setting/api2.md)
   * [API Security](bitrader-user-guide/api-setting/api3.md)
 * [Trading Process](bitrader-user-guide/p/README.md)
   * [STEP 1: Select Cryptocurrency & Order Mode](bitrader-user-guide/p/p1/README.md)
-    * [Order Modes in Bitrader](bitrader-user-guide/p/p1/order.md)
+    * [Order Modes in FlashEX](bitrader-user-guide/p/p1/order.md)
   * [STEP 2: Set Arbitrage Profit](bitrader-user-guide/p/p2.md)
   * [STEP3：Place Order & Market Speculation](bitrader-user-guide/p/p3.md)
 
 ## Tokenomics
 
-* [Bitrader Token](tokenomics/i.md)
-* [Bitrader Token Applications](tokenomics/s.md)
+* [FlashEX Token](tokenomics/i.md)
+* [FlashEX Token Applications](tokenomics/s.md)
 * [Tokenomics](tokenomics/m.md)
 
 ## Rewards
 
-* [Bitrader Pro Rewards](rewards/page-4/README.md)
+* [FlashEX Pro Rewards](rewards/page-4/README.md)
   * [User Rewards](rewards/page-4/rewards.md)
   * [Contributor's Reward](rewards/page-4/rewards-1.md)
 

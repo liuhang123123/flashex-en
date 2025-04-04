@@ -1,10 +1,10 @@
-# Bitrader Pro Rewards
+# FlashEX Pro Rewards
 
 <figure><img src="../../.gitbook/assets/Group.png" alt=""><figcaption></figcaption></figure>
 
 ## Reward Policy
 
-For **Bitrader Pro** users, rewards are categorized into two main types:
+For **FlashEX Pro** users, rewards are categorized into two main types:
 
 1. **User Rewards**
 2. **Contributor Rewards**
