@@ -2,16 +2,18 @@
 
 ## FlashEX Introduction
 
-* [Product Introduction](README.md)
-* [FlashEX Pro](bitrader-introduction/bitrader-pro.md)
-* [How Does FlashEX Work](bitrader-introduction/mechanism.md)
-* [The Value of FlashEX](bitrader-introduction/the-value-of-bitrader.md)
-* [Exchange Integration](bitrader-introduction/accessed-exchanges.md)
+* [Product Positioning & Philosophy](README.md)
+* [Strategy Logic & Compound Model](bitrader-introduction/the-value-of-bitrader.md)
+* [Security Mechanism (OAuth 2.0)](flashex-introduction/security-mechanism-oauth-2.0.md)
+* [FAQs](flashex-introduction/faqs.md)
 * [FAQ](bitrader-introduction/fqa/README.md)
   * [FlashEX User Rewards](bitrader-introduction/fqa/w1.md)
   * [Is FlashEX a Exchange?](bitrader-introduction/fqa/w2.md)
   * [Do I need to top up or deposit to my FlashEX app?](bitrader-introduction/fqa/w3.md)
   * [What are the Trading Pairs on FlashEX?](bitrader-introduction/fqa/w4.md)
+  * [Exchange Integration](flashex-introduction/fqa/accessed-exchanges.md)
+  * [How Does FlashEX Work](flashex-introduction/fqa/mechanism.md)
+  * [FlashEX Pro](flashex-introduction/fqa/bitrader-pro.md)
 
 ## FlashEX User Guide
 

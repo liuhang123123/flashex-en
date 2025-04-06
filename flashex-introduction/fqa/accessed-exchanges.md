@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Exchange Integration
 
 ## Exchanges Integrated with FlashEX
@@ -10,4 +14,4 @@ In the future, FlashEX will gradually support other top-ranked exchanges worldwi
 
 Top-ranked exchanges around the world are welcome to contact us for collaboration. Email: Cooperate@FlashEX.pro
 
-<figure><img src="../.gitbook/assets/Pagination (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pagination (3).png" alt=""><figcaption></figcaption></figure>

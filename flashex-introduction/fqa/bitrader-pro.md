@@ -16,4 +16,4 @@ Compared to the Standard Version, FlashEX Pro offers users greater earning poten
 
 The upgrade process from the standard version to the FlashEX Pro version is an automatic system upgrade process. After the user invites two trading users (only one person is required during the trial operation phase), the product will be automatically upgraded to the "FlashEX Pro version". (Note: After the invited user becomes a trading user).
 
-<figure><img src="../.gitbook/assets/Pagination (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pagination (2).png" alt=""><figcaption></figcaption></figure>

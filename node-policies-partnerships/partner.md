@@ -8,7 +8,7 @@ A **Node Partner** in the FlashEX ecosystem is a key community partner responsib
 
 **Key Points:**
 
-* **FlashEX Pro Version**: Node application and management features become available once users upgrade to the Pro version. [Learn how to obtain the FlashEX Pro version.](../bitrader-introduction/bitrader-pro.md)
+* **FlashEX Pro Version**: Node application and management features become available once users upgrade to the Pro version. [Learn how to obtain the FlashEX Pro version.](../flashex-introduction/fqa/bitrader-pro.md)
 * **Co-Creation with Partners**: Bitrader is co-developed with community partners, with **90% of profits shared**between community nodes and users.
 * **Node Partner Role**: As a **Node Partner**, you are a **community partner** responsible for the operation and growth of the FlashEX community.
 
