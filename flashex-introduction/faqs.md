@@ -8,16 +8,11 @@ description: Frequently Asked Questions
 
 ## Why choose FlashEX?
 
-✅ Low-percentage arbitrage for compound growth
-
-✅ Real-time market surveillance for opportunity detection
-
-✅ One-click entry + automatic exit for efficient trading
-
-✅ Simple operation and user-friendly interface, ideal for beginners
-
-✅ Tailored for low-risk arbitrage & high-frequency traders
-
+✅ Low-percentage arbitrage for compound growth\
+✅ Real-time market surveillance for opportunity detection\
+✅ One-click entry + automatic exit for efficient trading\
+✅ Simple operation and user-friendly interface, ideal for beginners\
+✅ Tailored for low-risk arbitrage & high-frequency traders\
 ✅ Fully user-controlled trading with transparent asset management
 
 ## Is FlashEX quantitative trading software?
@@ -44,9 +39,9 @@ All trades are configured by the user (entry direction, position size, target pr
 
 FlashEX is founded on **low-percentage arbitrage × high-win-rate execution × steady compound returns**, and aims to empower users with:
 
-* ✅ Smart market detection capabilities
-* ✅ Swift arbitrage execution tools
-* ✅ A lower-risk, sustainable path to financial growth
+✅ Smart market detection capabilities\
+✅ Swift arbitrage execution tools\
+✅ A lower-risk, sustainable path to financial growth
 
 ## Is FlashEX a cryptocurrency exchange?
 
