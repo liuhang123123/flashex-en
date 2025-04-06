@@ -26,3 +26,5 @@ API connects FlashEX to your OKX account. Once configured, FlashEX can assist in
 7. Save your API Key, Secret Key (shown only once), and Passphrase
 8. Return to FlashEX and enter the three values in the API Settings page
 9. Submit to verify and complete authorization
+
+<figure><img src="../.gitbook/assets/Pagination (1).png" alt=""><figcaption></figcaption></figure>
