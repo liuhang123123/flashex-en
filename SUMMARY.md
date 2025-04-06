@@ -22,7 +22,7 @@
 
 ## Trading Workflow
 
-* [API Configuration](trading-workflow/api-configuration.md)
+* [Trading Workflow](trading-workflow/trading-workflow.md)
 
 ***
 
