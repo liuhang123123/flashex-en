@@ -15,18 +15,22 @@
   * [How Does FlashEX Work](flashex-introduction/fqa/mechanism.md)
   * [FlashEX Pro](flashex-introduction/fqa/bitrader-pro.md)
 
-## FlashEX User Guide
+## API Configuration
 
-* [Download and Registration](bitrader-user-guide/reg.md)
-* [API Configuration](bitrader-user-guide/api-setting/README.md)
-  * [API Parameters with Exchanges](bitrader-user-guide/api-setting/api1.md)
-  * [FlashEX API Settings](bitrader-user-guide/api-setting/api2.md)
-  * [API Security](bitrader-user-guide/api-setting/api3.md)
-* [Trading Process](bitrader-user-guide/p/README.md)
-  * [STEP 1: Select Cryptocurrency & Order Mode](bitrader-user-guide/p/p1/README.md)
-    * [Order Modes in FlashEX](bitrader-user-guide/p/p1/order.md)
-  * [STEP 2: Set Arbitrage Profit](bitrader-user-guide/p/p2.md)
-  * [STEP3：Place Order & Market Speculation](bitrader-user-guide/p/p3.md)
+* [Registration & Download](api-configuration/reg.md)
+* [API Configuration](api-configuration/api-configuration.md)
+
+## Trading Workflow
+
+* [API Configuration](trading-workflow/api-configuration.md)
+
+***
+
+* [Trading Process](p/README.md)
+  * [STEP 1: Select Cryptocurrency & Order Mode](p/p1/README.md)
+    * [Order Modes in FlashEX](p/p1/order.md)
+  * [STEP 2: Set Arbitrage Profit](p/p2.md)
+  * [STEP3：Place Order & Market Speculation](p/p3.md)
 
 ## Tokenomics
 
