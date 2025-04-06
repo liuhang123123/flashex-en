@@ -2,14 +2,44 @@
 
 <figure><img src="../.gitbook/assets/Thumbnail.png" alt=""><figcaption></figcaption></figure>
 
-## Stability
+## Modest Profits, Remarkable Compound Returns
 
-Making trading more robust is the original intent behind the launch of FlashEX.
+**Earn Less, Win More**\
+Low-percentage gains can achieve astonishing compounding results.\
+While many chase extreme price swings, they forget: compounding doesn’t rely on doubling overnight, but on steady forward progress.
 
-## Simplicity
+FlashEX advocates for a 0.5% gain per trade, combined with high-frequency execution and disciplined risk control—turning "earn a bit more today" into "earn much more in the long run".
 
-In the process of trading on the secondary cryptocurrency market, we often find ourselves switching back and forth between market overview screens and order placement screens. This can affect our ability to seize specific market opportunities, especially during volatile periods. With FlashEX, you can open and close positions with just a few clicks, significantly simplifying the trading process and enhancing your trading efficiency.
+✅ Every modest win is a seed of compounding\
+✅ Every rational take-profit avoids liquidation\
+✅ Just 3 winning trades per day for 30 days could double your capital
 
-## Peace of Mind
+You don’t need to predict the market perfectly—just be a calm, consistent executor with a higher win rate.
 
-FlashEX’s “Arbitrage Setting” feature allows users to automatically set up both opening and closing orders, eliminating the need to manually place separate closing orders after opening a position. This feature makes trading more worry-free and helps users who aim for low-risk, stable profits to easily execute quick arbitrage trades.
+📌 Compounding is not a miracle, but the result of doing one small thing right over time. FlashEX helps you do that one thing exceptionally well.
+
+***
+
+#### FlashEX Compound Growth Simulation
+
+**Simulation Assumptions:**
+
+* Daily expected return: **4.5%**
+* **Assumption 1:** Each trade yields 0.5% profit using 3x leverage = 1.5% per trade\
+  → 3 profitable trades/day = \~4.5% daily return
+* **Assumption 2:** All other trades offset each other, leaving only the 3 stable gains
+* Volatility simulation: ±2% drawdown
+* Duration: 30 days
+* Initial capital: **$1,000 USDT**
+
+📅 After 30 days: **\~$3,545.69 USDT**\
+💰 Total return: **$2,545.69 USDT**
+
+**Small profits. Big impact.**
+
+<figure><img src="../.gitbook/assets/R.jpg" alt=""><figcaption></figcaption></figure>
+
+## This is the FlashEX philosophy: consistent small wins > occasional big wins.
+
+It’s not explosive profit—but it’s sustainable, controllable, and repeatable.\
+**Use discipline to secure your win rate, and time to accumulate results.**
