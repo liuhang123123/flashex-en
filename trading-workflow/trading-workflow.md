@@ -7,6 +7,8 @@
 
 ## Step-by-Step Order Process
 
+<figure><img src="../.gitbook/assets/place order.png" alt=""><figcaption></figcaption></figure>
+
 1. **Select a Trading Pair**
    * Navigate to the list of USDT-margined perpetual contracts on the FlashEX homepage
    * Search for additional tokens if not listed
@@ -15,6 +17,8 @@
    * Any mode will include both entry and exit configuration
 
 ## Detailed Order Modes
+
+<figure><img src="../.gitbook/assets/Group 219.png" alt=""><figcaption></figcaption></figure>
 
 **Limit Order**
 
