@@ -1,8 +1,10 @@
-# Product Introduction
+# Product Positioning & Philosophy
 
 ## Product Positioning & Philosophy
 
 ### **Smart Market Monitoring + User-Controlled Arbitrage Trading**
+
+FlashEX offers 24/7 market monitoring and ultra-fast API execution, supporting one-click order placement and automated closing to help you seize opportunities efficiently and lock in profits quickly.
 
 FlashEX App is a professional tool designed specifically for arbitrage trading in the secondary cryptocurrency market.
 
@@ -62,8 +64,6 @@ FlashEX exists not only to enable faster API order execution or price trackingâ€
 **â€” A philosophy centered on win rate, grounded in discipline, and aimed at long-term compounding.**
 
 {% hint style="success" %}
-
-
 We believe that:
 
 * Every small arbitrage win is a testament to rational strategy.
