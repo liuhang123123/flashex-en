@@ -3,7 +3,7 @@
 ## FlashEX Introduction
 
 * [Product Positioning & Philosophy](README.md)
-* [Strategy Logic & Compound Model](bitrader-introduction/the-value-of-bitrader.md)
+* [Strategy Logic & Compound Model](flashex-introduction/strategy-logic-and-compound-model.md)
 * [Security Mechanism (OAuth 2.0)](flashex-introduction/security-mechanism-oauth-2.0.md)
 * [FAQs](flashex-introduction/faqs.md)
 * [FAQ](bitrader-introduction/fqa/README.md)
