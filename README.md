@@ -1,8 +1,6 @@
 # Product Positioning & Philosophy
 
-## Product Positioning & Philosophy
-
-### **Smart Market Monitoring + User-Controlled Arbitrage Trading**
+## **Smart Market Monitoring + User-Controlled Arbitrage Trading**
 
 FlashEX offers 24/7 market monitoring and ultra-fast API execution, supporting one-click order placement and automated closing to help you seize opportunities efficiently and lock in profits quickly.
 
