@@ -52,7 +52,7 @@ All USDT-margined perpetual futures pairs available on OKX, such as:
 📌 **Context**\
 After completing API authorization with OKX, users should verify if the connection is successful and data is properly synced.
 
-👉 _If you have not yet configured OKX API access, please refer to: \[_[_API Setup Guide_](api-configuration.md)_]_
+👉 _If you have not yet configured OKX API access, please refer to: \[_[_API Setup Guide_](api-configuration.md#api-overview)_]_
 
 ***
 
@@ -107,7 +107,7 @@ Try placing a small test order:
 FlashEx successfully logged in, but the bottom of the home screen shows:\
 &#xNAN;**“Available Balance: 0”**
 
-👉 _If you have not yet configured OKX API access, please refer to: \[_[_API Setup Guide_](api-configuration.md)_]_
+👉  _If you have not yet configured OKX API access, please refer to: \[_[_API Setup Guide_](api-configuration.md#api-overview)_]_
 
 ***
 
