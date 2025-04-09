@@ -2,15 +2,18 @@
 
 ## FlashEx — Supported Trading Types
 
-🎯 **Supported Exchange**\
+### 🎯 **Supported Exchange**
+
 Currently supported: **OKX** (via API integration for trading)
 
-💰 **Supported Contract Type**\
+### 💰 **Supported Contract Type**
+
 ✅ USDT-Margined Perpetual Futures\
 FlashEx focuses exclusively on:\
 **USDT contracts × Perpetual Futures × Manual entry + Auto take-profit arbitrage**
 
-🔄 **Supported Trading Pairs** _(based on OKX platform)_\
+### 🔄 **Supported Trading Pairs** _(based on OKX platform)_
+
 All USDT-margined perpetual futures pairs available on OKX, such as:
 
 * BTC/USDT
@@ -22,7 +25,7 @@ All USDT-margined perpetual futures pairs available on OKX, such as:
 
 📌 Newly listed USDT perpetual contracts on OKX are typically supported by FlashEx automatically.
 
-⚙️ **Supported Order Types**
+### ⚙️ **Supported Order Types**
 
 | Order Type        | Description                                                                 | Suitable For                         |
 | ----------------- | --------------------------------------------------------------------------- | ------------------------------------ |
@@ -30,7 +33,7 @@ All USDT-margined perpetual futures pairs available on OKX, such as:
 | **Limit Order**   | Places an order at a specified price, waits for execution                   | Price control, slippage avoidance    |
 | **Planned Order** | Automatically triggers entry + take-profit based on user-defined conditions | Strategic entries with profit target |
 
-🧠 **FlashEx Arbitrage System Highlights**
+### 🧠 **FlashEx Arbitrage System Highlights**
 
 * ✅ One-click order entry + auto-generated take-profit limit order
 * ✅ Supports long & short positions
@@ -38,7 +41,7 @@ All USDT-margined perpetual futures pairs available on OKX, such as:
 * ✅ Real-time tracking of PnL and take-profit status
 * ✅ No black-box logic: 100% user-initiated & controlled
 
-❌ **Currently Not Supported**
+### ❌ **Currently Not Supported**
 
 * Spot trading (token-to-token swaps)
 * Margin accounts
@@ -49,14 +52,15 @@ All USDT-margined perpetual futures pairs available on OKX, such as:
 
 ## 🔎 FlashEx — API Connection Verification Guide
 
-📌 **Context**\
+### 📌 **Context**
+
 After completing API authorization with OKX, users should verify if the connection is successful and data is properly synced.
 
 👉 _If you have not yet configured OKX API access, please refer to: \[_[_API Setup Guide_](api-configuration.md#api-overview)_]_
 
 ***
 
-#### ✅ Step-by-Step Connection Checks
+### ✅ Step-by-Step Connection Checks
 
 #### 1️⃣ **Check API Connection Status**
 
@@ -91,7 +95,7 @@ Try placing a small test order:
 
 ***
 
-#### ❌ If API Connection Fails, Please Check:
+### ❌ If API Connection Fails, Please Check:
 
 * Whether you're using the **recommended OAuth (automatic) authorization**
 * Whether your API permission includes both **“read” and “trade”** (withdrawal not required)
@@ -100,9 +104,9 @@ Try placing a small test order:
 
 ***
 
-### ❗ FlashEx — “No Balance” Troubleshooting
+## ❗ FlashEx — “No Balance” Troubleshooting
 
-#### 📍 Problem:
+### 📍 Problem:
 
 FlashEx successfully logged in, but the bottom of the home screen shows:\
 &#xNAN;**“Available Balance: 0”**
@@ -111,16 +115,16 @@ FlashEx successfully logged in, but the bottom of the home screen shows:\
 
 ***
 
-#### ✅ Step-by-Step Troubleshooting
+### ✅ Step-by-Step Troubleshooting
 
-**① Ensure API Authorization is Completed**
+#### **① Ensure API Authorization is Completed**
 
 * ✅ Login to FlashEx → Check API status in settings shows “Connected”
 * ✅ Ensure OKX is the authorized exchange, with both “read” and “trade” permissions 👉 If not authorized or expired, re-bind via **OAuth (recommended)**
 
 ***
 
-**② Ensure Funds are in the OKX Futures Account**
+#### **② Ensure Funds are in the OKX Futures Account**
 
 FlashEx reads data only from **Futures Account**, not Spot or Funding.
 
@@ -136,14 +140,14 @@ FlashEx reads data only from **Futures Account**, not Spot or Funding.
 
 ***
 
-**③ Ensure You Are Using a Supported Contract**
+#### **③ Ensure You Are Using a Supported Contract**
 
 FlashEx only supports **USDT-margined perpetual futures** on OKX.\
 If your funds are in spot/other accounts, balance won't show, and you can’t place orders.
 
 ***
 
-#### 🚨 Additional Notes:
+### 🚨 Additional Notes:
 
 * 📌 **FlashEx never holds your funds** — your assets remain entirely in your own OKX account
 * ⏱ If you've just transferred funds, refresh or re-enter the app to update
