@@ -29,8 +29,8 @@
 
 * [Select Trading Pair & Order Type](select-trading-pair-and-order-type/README.md)
   * [Order Types Explained](select-trading-pair-and-order-type/order-types-explained.md)
-* [Profit Target Configuration](profit-target-configuration/README.md)
-  * [Placing Orders & Monitoring Positions](profit-target-configuration/placing-orders-and-monitoring-positions.md)
+* [Profit Target Configuration](profit-target-configuration.md)
+* [Placing Orders & Monitoring Positions](placing-orders-and-monitoring-positions.md)
 * [Trading Process](p/README.md)
   * [STEP 1: Select Cryptocurrency & Order Mode](p/p1/README.md)
     * [Order Modes in FlashEX](p/p1/order.md)

@@ -28,4 +28,4 @@ You may select the preferred order type based on your trading objective.
 
 ✅ No matter which mode you choose, FlashEx allows you to **set up both the entry and the take-profit exit in a single operation**.
 
-📖 For details on each mode, please refer to: **\[Order Types Explained]**
+📖 For details on each mode, please refer to:[ **\[Order Types Explained\]**](order-types-explained.md)
