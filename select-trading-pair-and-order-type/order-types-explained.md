@@ -66,3 +66,5 @@ The **Planned Order** mode allows users to predefine both the **entry price** an
 * Traders with clear entry and profit targets
 * Executing trades in specific price zones
 * Lowering potential entry cost compared to market orders
+
+<figure><img src="../.gitbook/assets/Group 47302.png" alt="" width="563"><figcaption></figcaption></figure>

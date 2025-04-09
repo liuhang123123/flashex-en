@@ -76,3 +76,5 @@ After the market order is filled, the system calculates the take-profit target u
 * Want **precise entry and exit pricing**
 * Can **wait for favorable price conditions**
 * Seek to **automate the entire arbitrage cycle**
+
+<figure><img src=".gitbook/assets/Pagination (1).png" alt=""><figcaption></figcaption></figure>

@@ -48,6 +48,8 @@ To enhance flexibility and control, FlashEx provides the following quick-action 
   Close positions manually instead of relying solely on automatic take-profit.\
   Suitable for partial closing, scaling out, or implementing customized exit strategies.
 
+<figure><img src=".gitbook/assets/phone.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ***
 
 ## ⚡ FlashEx Signature Feature — Smart Auto Take-Profit
