@@ -19,6 +19,7 @@
 
 * [Registration & Download](api-configuration/reg.md)
 * [API Configuration](api-configuration/api-configuration.md)
+* [Troubleshooting](api-configuration/troubleshooting.md)
 
 ## Trading Workflow
 
